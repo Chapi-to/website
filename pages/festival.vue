@@ -110,7 +110,7 @@
             <div
               class="toggle"
               id="titlefirst"
-            >blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+            >Créez un ou plusieurs programmes, regroupez-les ou séparez-les, , filtrez-les sur votre mobile. Ex : un programme gratuit et un programme payant, ou encore, programme avant festival et pendant festival.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -123,14 +123,14 @@
           </div>
           <div class="advantage col-2-adv hidden"><img
               class="img-adv"
-              src="~/assets/img/update.png"
+              src="~/assets/img/icons8-gps-disconnected-80.png"
               width="60px"
             >
             <h4 class="titre-adv">Mode hors ligne</h4>
             <div
               class="toggle"
               id="titlesecond"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >95% du contenu de l'application est disponible hors ligne ! Une fois l'application téléchargée, les festivaliers pourrons profiter pleinement de tous ses contenus même s'ils n'ont pas internet sur le festial.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -147,7 +147,7 @@
             <div
               class="toggle"
               id="titlethird"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Directement sur l'application, filtrer les différents concerts ou artistes en fonction de vos envies, de vos préférences, du lieux où vous vous trouvez, du programme auquel vous participez etc. Mettez en favoris vos événements, concerts, ou artistes préférés pour repérer en un clein d'oeil vos prochains RDV</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -158,14 +158,14 @@
         </div>
 
         <div class="advantage-info light-blue">
-          <div class="bloc-info-festival"><span>Informations pratiques</span></div>
+          <div class="bloc-info-festival"><span>Fonctionnalités adaptées</span></div>
           <div class="advantage col-1-adv-bis hidden"><img
               class="img-adv"
               src="~/assets/img/offline.png"
               width="60px"
             >
             <h4 class="titre-adv">Carte ou Plan</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Créez une carte ou un plan détaillé de votre festivals, renseignez un fond de carte créé par vos soins, indiquez les différentes zones (payantes et gratuites par ex.), renseignez les différents points d'intéret de votre festival etc. Vos festivaliers ne se perdrons plus jamais grâce à la géolocalisation</div>
             <div class="arrow"></div>
           </div>
           <div class="advantage col-2-adv-bis hidden">
@@ -175,7 +175,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Cashless</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Vous mettez en place un système de paiement cashless sur votre festival ? C'est un sans faute! Les festivaliers pourrons directement recharger leur compte depuis l'application dans un onglet dédié. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de cashless avantageuses avec des partenaires.</div>
             <div class="arrow"></div>
           </div>
           <div class="advantage col-3-adv-bis hidden">
@@ -185,17 +185,17 @@
               width="60px"
             >
             <h4 class="titre-adv">Billeterie</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Vous avez une billeterie pour votre festival ? Plusieurs ? Parfait, retrouvez-les directements sur l'application. Soit sur une page dédiée pour une billeterie générale soit dans chaque fiches événements si vous avez plusieurs événements et plusieurs billeteries. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de billeterie avantageuses avec des partenaires.</div>
             <div class="arrow"></div>
           </div>
           <div class="advantage col-4-adv hidden">
             <img
               class="img-adv"
-              src="~/assets/img/offline.png"
+              src="~/assets/img/notification.png"
               width="60px"
             >
             <h4 class="titre-adv">Notifications</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Envoyez autant de notifications que vous le souhaitez grâce à Chapitô. C'est rapide, efficace, et cela vous offre de nombreuses possibilités. Alertez vos festivaliers en cas de changements, d'imprévus, etc. Envoyez aussi des notifications CIBLEES, c'est encore mieux, ciblez uniquement un certain groupe de personnes, ceux présents à un before festival par exemple. </div>
             <div class="arrow"></div>
           </div>
         </div>
@@ -219,38 +219,44 @@
       >
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/Nuits sonores iphone.png"
+            alt="Mockup Nuits Sonores Festival"
+          >
+           </slide>
+            <slide>
+          <img
+            src="~/assets/img/aucard iphone.png"
+            alt="Mockup Aucard"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/panoramas iphone.png"
+            alt="Mockup Panoramas Festival"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/pitchfork iphone.png"
+            alt="Mockup Pitchfork Festival"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/rdv erdre iphone.png"
+            alt="Mockup RDV erdre"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/terres du son iphone.png"
+            alt="Mockup Terres du son"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/vilette iphone.png"
+            alt="Mockup Vilette Sonique"
           >
         </slide>
       </carousel>
@@ -269,7 +275,7 @@
         <div class="bloc-carre carre-col-1">
 
           <h3>Profitez de<br>Chapitô<br>à partir de 2500€</h3>
-          <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
+          <p>Accédez à l’outil Chapitô afin de générer une application pour votre festival sur iPhone et sur Android</p>
         </div>
 
         <div
@@ -288,10 +294,10 @@
 
     <div class="contact">
       <div class="btn-contact">
-        <a href="#">Nous contacter</a>
+        <a href="mailto:contact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
-        <a href="#">Programmer une démo</a>
+        <a href="https://calendly.com/chapito">Programmer une démo</a>
       </div>
     </div>
 
@@ -322,17 +328,19 @@
       </div>
       <div class="about-us">
         <h5>Qui sommes nous ?</h5>
-        <p>Code Toopers,</p>
-        <p>rue blabla</p>
+        <p>Chapitô by Code-Troopers,</p>
+        <p>MAME, Cité de la création et du numérique</p>
+        <p>49 boulevard Preuilly</p>
         <p>37000 Tours</p>
       </div>
       <div class="about-users">
         <h5>Qui êtes-vous ?</h5>
         <ul>
-          <li><a href="#">Festival</a></li>
-          <li><a href="#">Salon</a></li>
-          <li><a href="#">BDE</a></li>
-          <li><a href="#">Autre</a></li>
+          <li><a href="festival.vue">Festival</a></li>
+          <li><a href="salon.vue">Salon</a></li>
+          <li><a href="bde.vue">BDE</a></li>
+          <li><a href="foire.vue">Foire</a></li>
+          <li><a href="autre.vue">Autre</a></li>
         </ul>
       </div>
       <div class="follow">
@@ -358,7 +366,7 @@
 
         </form>
         <p class="social-network">Réseaux sociaux</p>
-        <a href="#">
+        <a href="https://twitter.com/chapi_to">
           <img
             src="~/assets/img/icons8-twitter-entoure-96.png"
             width="46px"
@@ -374,7 +382,7 @@
           class="mention"
         >Mentions légales </a>-
         <a
-          href="#"
+          href="http://chapi.to/privacy_policy.html"
           class="policy"
         >Politique de confidentialité </a>
         <p class="copyright">&copy; 2019 Code Troopers</p>

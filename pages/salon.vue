@@ -25,9 +25,10 @@
               style="display: none"
             >
               <li class="sousmenu yellow"><a href="festival.html">Festival</a></li>
-              <li class="sousmenu red"><a href="#">Salon</a></li>
-              <li class="sousmenu violet"><a href="#">BDE</a></li>
-              <li class="sousmenu orange"><a href="#">Autre</a></li>
+              <li class="sousmenu red"><a href="salon.html">Salon</a></li>
+              <li class="sousmenu violet"><a href="bde.html">BDE</a></li>
+              <li class="sousmenu green"><a href="foire.html">Foire</a></li>
+              <li class="sousmenu orange"><a href="autre.html">Autre</a></li>
             </ul>
             </li>
           </ul>
@@ -56,7 +57,14 @@
 
             <strong>Les exposants présents, les horaires des animations, la programmation, les infos pratiques, les principaux points d’intérêt, les partenaires, etc…</strong><br><br>MAIS ! également de rester informé des changements et être alerté des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
-        <div class="circle"><span>Lorem ipsum</span></div>
+       <div class="info">
+          <div class="pourcentage">
+            <p>74%</p>
+          </div>
+          <div class="text-pourcentage">
+            <p>des participants à un salon pensent qu'il est préférable d'utiliser une application plutôt que des documents papier pour avoir accès à toutes les informations de l'événement.</p>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -80,7 +88,7 @@
 
       <div class="container-img">
         <img
-          src="~/assets/img/Photos-festivals-RVB.jpg"
+          src="~/assets/img/Photos-salon.jpg"
           width="100%"
         >
 
@@ -100,14 +108,14 @@
           <div class="advantage col-1-adv hidden">
             <img
               class="img-adv"
-              src="~/assets/img/alternarif.png"
+              src="~/assets/img/icons8-calendar-80.png"
               width="60px"
             >
-            <h4 class="titre-adv">Programmes personnalisé</h4>
+            <h4 class="titre-adv">Programmes personnalisés</h4>
             <div
               class="toggle"
               id="titlefirst"
-            >blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+            >Créez un ou plusieurs programmes, regroupez-les ou séparez-les, , filtrez-les sur votre mobile. Ex : un programme congrès, un programme conférences, ou encore un programme pitch.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -127,7 +135,7 @@
             <div
               class="toggle"
               id="titlesecond"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Mettez instantanément les contenus de votre application à jour, une erreur dans la programmation ou la liste des particpants, un changement d'intervenant, une nouvelle photo d'intervention, des nouvelles infos pratiques, etc. Actualisez tout le contenu de votre application instantanément </div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -139,14 +147,14 @@
           </div>
           <div class="advantage col-3-adv hidden"><img
               class="img-adv"
-              src="~/assets/img/filtre.png"
+              src="~/assets/img/icons8-lock-80.png"
               width="60px"
             >
             <h4 class="titre-adv">Privatisation de l'application</h4>
             <div
               class="toggle"
               id="titlethird"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Vous avez la possibilité de rendre l'utilisation de l'application privée. Cela signifie que vous aurez la possibilité de n'autoriser la navigation dans l'application qu'aux utilisateurs présents sur la whitelist, sur inscription. Si vos contenus sont privés, si vous souhaitez restreindre l'accès aux contenus de l'application, vous pouvez tout à fait le faire grâce à cette fonctionnalité.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -160,17 +168,17 @@
           <div
             class="bloc-info-festival"
             id="bloc-info-salon"
-          ><span>Informations pratiques</span></div>
+          ><span>Fonctionnalités adaptées</span></div>
           <div class="advantage col-1-adv-bis hidden"><img
               class="img-adv"
-              src="~/assets/img/offline.png"
+              src="~/assets/img/notification.png"
               width="60px"
             >
             <h4 class="titre-adv">Notifications ciblées</h4>
             <div
               id="titlefourth"
               class="toggle"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Envoyez autant de notifications que vous le souhaitez grâce à Chapitô. C'est rapide, efficace et cela vous offre de nombreuses possibilités. Alertez vos visiteurs en cas de changements, d'imprévus, etc. Envoyez également des notifications CIBLÉES, c'est encore mieux, informez uniquement certain groupes de personnes, les principaux concernés par votre nouvelle ou alerte.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-1-adv-bis', 'light-nude')"
@@ -187,7 +195,7 @@
             <div
               id="titlefifth"
               class="toggle"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Vous mettez en place un système de paiement cashless pour votre salon ? C'est un sans faute ! Vos visiteurs pourrons directement recharger leur compte depuis l'application dans un onglet dédié. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de cashless avantageuses avec des partenaires.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-2-adv-bis','light-nude')"
@@ -196,11 +204,11 @@
           <div class="advantage col-3-adv-bis hidden">
             <img
               class="img-adv"
-              src="~/assets/img/billet.png"
+              src="~/assets/img/icons8-gps-disconnected-80.png"
               width="60px"
             >
             <h4 class="titre-adv">Mode hors-ligne</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">95% du contenu de l'application est disponible hors ligne ! Une fois l'application téléchargée, vos visiteurs et participants pourrons profiter pleinement de tous ses contenus même si le réseaux n'est pas très bon ou saturé sur le lieux de votre événement.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-3-adv-bis', 'light-nude')"
@@ -209,11 +217,11 @@
           <div class="advantage col-4-adv hidden">
             <img
               class="img-adv"
-              src="~/assets/img/offline.png"
+              src="~/assets/img/billet.png"
               width="60px"
             >
             <h4 class="titre-adv">Billeterie</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Vous avez une billeterie ? Plusieurs ? Parfait, retrouvez-les directements sur l'application. Soit sur une page dédiée pour une billeterie générale soit dans chaque fiches événements si vous avez plusieurs événements et plusieurs billeteries. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de billeterie avantageuses avec des partenaires.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-4-adv', 'light-nude')"
@@ -239,37 +247,7 @@
       >
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
+            src="~/assets/img/european lab iphone.png"
             alt="exemple d'application"
           >
         </slide>
@@ -289,7 +267,7 @@
         <div class="bloc-carre carre-col-1">
 
           <h3>Profitez de<br>Chapitô<br> à partir de 2500€</h3>
-          <p>Accédez à l’outil Chapitô afin de générez une application pour votre salon sur iPhone et sur Android</p>
+          <p>Accédez à l’outil Chapitô afin de générer une application pour votre salon sur iPhone et sur Android</p>
         </div>
 
         <div
@@ -311,10 +289,10 @@
         class="btn-contact"
         id="btn-color-nude"
       >
-        <a href="#">Nous contacter</a>
+        <a href="mailtocontact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
-        <a href="#">Programmer une démo</a>
+        <a href="http://calendly.com/chapito">Programmer une démo</a>
       </div>
     </div>
 
@@ -345,17 +323,19 @@
       </div>
       <div class="about-us">
         <h5>Qui sommes nous ?</h5>
-        <p>Code Toopers,</p>
-        <p>rue blabla</p>
+        <p>Chapitô by Code-Troopers,</p>
+        <p>MAME, Cité de la création et du numérique</p>
+        <p>49 boulevard Preuilly</p>
         <p>37000 Tours</p>
       </div>
       <div class="about-users">
         <h5>Qui êtes-vous ?</h5>
         <ul>
-          <li><a href="#">Festival</a></li>
-          <li><a href="#">Salon</a></li>
-          <li><a href="#">BDE</a></li>
-          <li><a href="#">Autre</a></li>
+          <li><a href="festival.vue">Festival</a></li>
+          <li><a href="salon.vue">Salon</a></li>
+          <li><a href="bde.vue">BDE</a></li>
+           <li><a href="foire.vue">Foire</a></li>
+          <li><a href="autre.vue">Autre</a></li>
         </ul>
       </div>
       <div class="follow">
@@ -381,7 +361,7 @@
 
         </form>
         <p class="social-network">Réseaux sociaux</p>
-        <a href="#">
+        <a href="https://twitter.com/chapi_to">
           <img
             src="~/assets/img/icons8-twitter-entoure-96.png"
             width="46px"
@@ -393,11 +373,11 @@
 
       <div class="infos">
         <a
-          href="#"
+          href=""
           class="mention"
         >Mentions légales </a>-
         <a
-          href="#"
+          href="http://chapi.to/privacy_policy.html"
           class="policy"
         >Politique de confidentialité </a>
         <p class="copyright">&copy; 2019 Code Troopers</p>
