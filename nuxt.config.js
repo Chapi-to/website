@@ -59,4 +59,5 @@ module.exports = {
   css: [
     '@/assets/css/style.css'
   ],
+  server: { host: '0.0.0.0' }
 }
